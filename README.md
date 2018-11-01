@@ -30,6 +30,6 @@ Data, Prediction, and Law is a new Legal Studies seminar that allows students to
 | 4-3-18   | Neural Nets: Multi-Layered Perceptron, Convolutional Neural Netowkrs  | MNIST                                                  | 
 | 4-5-18   | Word2Vec and Word Embeddings                                          | UN General Debate Transcripts                          | 
 | 4-10-18  | Topic Modeling: Latent Dirichlet Analysis in Gensim and Scikit-learn  | UN General Debate Transcripts                          | 
-| 4-12-18  | Text Analysis: Sentiment, Morality, Non-Negative Matric Factorization | Old Bailey Online Corpus                               | 
+| 4-12-18  | Text Analysis: Sentiment, Morality, Non-Negative Matrix Factorization | Old Bailey Online Corpus                               | 
 | 4-17-18  | Feature Selection                                                     | Bike Sharing                                           | 
 | 4-19-18  | Decision Trees and Ensemble Methods                                   | Bike Sharing                                           | 
