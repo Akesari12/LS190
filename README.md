@@ -12,7 +12,7 @@ Data, Prediction, and Law is a new Legal Studies seminar that allows students to
 | 1-18-18  | Python, Jupyter, Tables                                               | NCVS Incident-Record-Type                        | 
 | 1-23-18  | Table operations, Scatter Plots, Histograms, Probability              | NCVS                                             | 
 | 1-25-18  | Empirical Distributions and Hypothesis Testing                        | NCVS                                             | 
-| 1-30-18  | Bootstrap and Confidence Intervals                                    | American National Elections Study (ANES) 2016 Election |
+| 1-30-18  | Bootstrap and Confidence Intervals                                    | American National Elections Study  2016 Election |
 | 2-6-18   | Intro to Folium                                                       | us-states.json                                   |
 | 2-8-18   | Folium: Choropleth Maps                                               | us-states.json, US Unemployment October 2012     | 
 | 2-13-18  | Folium: Heat Maps                                                     | us-states.json, US Unemployment October 2012     | 
