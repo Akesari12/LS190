@@ -4,7 +4,27 @@ This repository contains the course materials for Legal Studies 190: Data, Predi
 
 The course was developed in cooperation with UC Berkeley's Data Science Education Program (DSEP). DSEP provided critical support in the form of a seed grant, and developing most of the notebooks that we used for in-class lab sessions. As such, this course is geared towards students who completed Berkeley's Data 8: Foundations of Data Science course. Data 8 introduces computational and inferential thinking, and encourages students to apply it to real-world data and problems. Topics include basic probability, hypothesis testing, regression and classification, and computation in Python.
 
+## Table of Contents
 
+1. [Introduction](https://github.com/Akesari12/LS190#Introduction)
+2. [Course Goals](https://github.com/Akesari12/LS190#Course Goals)
+3. [Social Science Data](https://github.com/Akesari12/LS190#Social Science Data)
+4. [Machine Learning & Policing](https://github.com/Akesari12/LS190#Machine Learning & Policing)
+5. [Law as Text as Data](https://github.com/Akesari12/LS190#Law as Text as Data)
+6. [Lab Plan](https://github.com/Akesari12/LS190#Lab Plan)
+7. [Conclusion](https://github.com/Akesari12/LS190#Conclusion)
+
+## Introduction
+
+## Course Goals
+
+## Social Science Data
+
+## Machine Learning & Policing
+
+## Law as Text as Data
+
+## Lab Plan
 
 | Lab Date | Summary                                                               | Data                                                   | 
 |----------|-----------------------------------------------------------------------|--------------------------------------------------------|
@@ -31,3 +51,5 @@ The course was developed in cooperation with UC Berkeley's Data Science Educatio
 | 4-12-18  | Text Analysis: Sentiment, Morality, Non-Negative Matrix Factorization | Old Bailey Online Corpus                               | 
 | 4-17-18  | Feature Selection                                                     | Bike Sharing                                           | 
 | 4-19-18  | Decision Trees and Ensemble Methods                                   | Bike Sharing                                           | 
+
+## Conclusion
