@@ -7,11 +7,11 @@ The course was developed in cooperation with UC Berkeley's Data Science Educatio
 ## Table of Contents
 
 1. [Introduction](https://github.com/Akesari12/LS190#Introduction)
-2. [Course Goals](https://github.com/Akesari12/LS190#Course Goals)
-3. [Social Science Data](https://github.com/Akesari12/LS190#Social Science Data)
-4. [Machine Learning & Policing](https://github.com/Akesari12/LS190#Machine Learning & Policing)
-5. [Law as Text as Data](https://github.com/Akesari12/LS190#Law as Text as Data)
-6. [Lab Plan](https://github.com/Akesari12/LS190#Lab Plan)
+2. [Course Goals](https://github.com/Akesari12/LS190#Course-Goals)
+3. [Social Science Data](https://github.com/Akesari12/LS190#Social-Science-Data)
+4. [Machine Learning & Policing](https://github.com/Akesari12/LS190#Machine-Learning-&-Policing)
+5. [Law as Text as Data](https://github.com/Akesari12/LS190#Law-as-Text-as-Data)
+6. [Lab Plan](https://github.com/Akesari12/LS190#Lab-Plan)
 7. [Conclusion](https://github.com/Akesari12/LS190#Conclusion)
 
 ## Introduction
