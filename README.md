@@ -1,12 +1,10 @@
-# LEGALST-190
-## Data, Prediction, and Law
-### Professor: Jon Marshall
-#### GSI: Aniket Kesari
-#### Developer Team: Keeley Takimoto, Tian Qin, Gibson Chu, Jason Jiang, Keiko Kamei, Tina Nguyen
+# Legal Studies 190: Data, Prediction, and Law
 
-Labs, Problem Sets, and data for LEGALST-190: Data, Prediction, and Law. 
+This repository contains the course materials for Legal Studies 190: Data, Prediction and Law offered at UC Berkeley during Spring 2018. Future iterations of this course are titled Legal Studies 123. The course is aimed at an undergraduate audience, and allows students to explore different data sources that scholars and government officials use to make generalizations and predictions in the realm of law. The course also introduces critiques of predictive techniques in law. Students  apply the statistical and Python programming skills to examine a traditional social science dataset, “big data” related to law, and legal text data. The materials here will enable anyone who is interested in teaching a similar course to do so with minimal additional preparation.
 
-Data, Prediction, and Law is a new Legal Studies seminar that allows students to explore different data sources that scholars and government officials use to make generalizations and predictions in the realm of law. The course will also introduce critiques of predictive techniques in law. Students will apply the statistical and Python programming skills from Foundations of Data Science to examine a traditional social science dataset, “big data” related to law, and legal text data.
+The course was developed in cooperation with UC Berkeley's Data Science Education Program (DSEP). DSEP provided critical support in the form of a seed grant, and developing most of the notebooks that we used for in-class lab sessions. As such, this course is geared towards students who completed Berkeley's Data 8: Foundations of Data Science course. Data 8 introduces computational and inferential thinking, and encourages students to apply it to real-world data and problems. Topics include basic probability, hypothesis testing, regression and classification, and computation in Python.
+
+
 
 | Lab Date | Summary                                                               | Data                                                   | 
 |----------|-----------------------------------------------------------------------|--------------------------------------------------------|
